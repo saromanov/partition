@@ -1,4 +1,4 @@
-package gopart
+package partition
 
 // Range defines value for split collection
 type Range struct {
