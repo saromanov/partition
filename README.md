@@ -1,6 +1,9 @@
 # partition
 [![GoDoc](https://godoc.org/github.com/saromanov/partition?status.png)](https://godoc.org/github.com/saromanov/partition)
 [![Go Report Card](https://goreportcard.com/badge/github.com/saromanov/partition)](https://goreportcard.com/report/github.com/saromanov/partition)
+[![Build Status](https://travis-ci.org/saromanov/partition.svg?branch=master)](https://travis-ci.org/saromanov/partition)
+[![Coverage Status](https://coveralls.io/repos/github/saromanov/partition/badge.svg?branch=master)](https://coveralls.io/github/saromanov/partition?branch=master)
+
 
 Partition of collection on chunks
 
